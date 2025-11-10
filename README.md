@@ -16,8 +16,6 @@ Tenho traçado meu caminho na área de Desenvolvimento Fullstack. Atualmente est
 | :---------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
 | **[Lucky-Roll](https://github.com/BaielsTosta/Lucky-Roll)** | Um rolador de dados virtual para RPG de mesa, desenvolvido com HTML, CSS e JavaScript puro. |
 
-|
-
 ---
 
 ## 💻 Linguagens e Ferramentas que uso
