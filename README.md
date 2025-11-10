@@ -10,7 +10,18 @@ Tenho traçado meu caminho na área de Desenvolvimento Fullstack. Atualmente est
 
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=baielstosta&layout=compact&theme=great-gatsby&langs_count=8" />
 
+## 🛠️ Meus Projetos
+
+| Projeto                                                     | Descrição Breve                                                                             |
+| :---------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
+| **[Lucky-Roll](https://github.com/BaielsTosta/Lucky-Roll)** | Um rolador de dados virtual para RPG de mesa, desenvolvido com HTML, CSS e JavaScript puro. |
+
+|
+
+---
+
 ## 💻 Linguagens e Ferramentas que uso
+
 <div>
 <img height=50 src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=ffd95b"/>
 <img src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=ffd95b" style="display: inline"/>
