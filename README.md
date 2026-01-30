@@ -4,11 +4,11 @@ Olá, muito prazer! Me chamo Gabriel Tosta Nunes, atualmente tenho 24 anos. Sou 
 
 Tenho traçado meu caminho na área de Desenvolvimento Fullstack. Atualmente estou focado no Framework React.
 
-## 📊 Minhas Estatísticas
+<!-- -->## 📊 Minhas Estatísticas
 
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=baielstosta&theme=great-gatsby" />
+  <!-- --><img height=200 src="https://github-readme-stats.vercel.app/api?username=baielstosta&theme=great-gatsby" />
 
-  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=baielstosta&layout=compact&theme=great-gatsby&langs_count=8" />
+  <!-- --><img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=baielstosta&layout=compact&theme=great-gatsby&langs_count=8" />
 
 ## 🛠️ Meus Projetos
 
