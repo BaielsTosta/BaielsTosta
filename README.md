@@ -4,15 +4,6 @@ Olá, muito prazer! Me chamo Gabriel Tosta Nunes, atualmente tenho 24 anos. Sou 
 
 Tenho traçado meu caminho na área de Desenvolvimento Fullstack. Atualmente estou focado no Framework React.
 
-## 🛠️ Meus Projetos
-
-| Projeto                                                     | Descrição Breve                                                                             |
-| :---------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
-| **[Lucky-Roll](https://github.com/BaielsTosta/Lucky-Roll)** | Um rolador de dados virtual para RPG de mesa, desenvolvido com HTML, CSS e JavaScript puro. |
-| **[Lastfm-Wrapper](https://github.com/BaielsTosta/lastfm-wrapper)** | Um wrapper para facilitar o uso da API do LastFM |
-
----
-
 ## 💻 Linguagens e Ferramentas que uso
 
 <div>
